@@ -1,6 +1,6 @@
 # Gens.Life Platform
 
-![Gens.Life Logo](https://api.placeholder.com/150x150)
+![Gens.Life Logo](https://drive.google.com/file/d/17Rql3OXy0VBNchzxb1eizOp1NUZu1zN5/view?usp=sharing)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
