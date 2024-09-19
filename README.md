@@ -74,11 +74,11 @@ Gens.Life is hosted on OVH Worker 3, ensuring robust performance and scalability
 | SOA Record | gens.life | 3600 | SOA | buck.ns.cloudflare.com. dns.cloudflare.com. 2047832087 10000 2400 604800 3600 |
 | NS Records | gens.life | 86400 | NS | buck.ns.cloudflare.com. |
 |  | gens.life | 86400 | NS | isla.ns.cloudflare.com. |
-| A Records | api.gens.life | 1 | A | 51.195.97.76 |
-|  | app.gens.life | 1 | A | 51.195.97.76 |
-|  | gens.life | 1 | A | 144.126.130.16 |
-|  | mail.gens.life | 1 | A | 51.195.97.76 |
-|  | webmail.gens.life | 1 | A | 51.195.97.76 |
+| A Records | api.gens.life | 1 | A | ${IP} |
+|  | app.gens.life | 1 | A | ${IP} |
+|  | gens.life | 1 | A | ${IP} |
+|  | mail.gens.life | 1 | A | ${IP} |
+|  | webmail.gens.life | 1 | A | ${IP} |
 
 *Note: For brevity, not all records are shown here. Please contact author for that.*
 
