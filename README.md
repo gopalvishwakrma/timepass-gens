@@ -1,7 +1,3 @@
-# Gens.Life Platform
-
-![Gens.Life Logo](https://drive.google.com/file/d/1mXSTYFbt2k_eduC7FQDt8SqFfNcLvM7T/view?usp=sharing)
-
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Key Features](#key-features)
