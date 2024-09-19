@@ -161,16 +161,6 @@ To set up the Gens.Life platform locally, follow these steps:
 3. Run `docker-compose up --build`
 4. Access the application at `http://localhost:3000`
 
-For detailed setup instructions, please refer to our [Development Guide](link-to-dev-guide).
-
-## Contributing
-
-We welcome contributions to the Gens.Life platform! Please read our [Contributing Guidelines](link-to-contributing-guide) for more information on how to get started.
-
-## License
-
-This project is licensed under the [MIT License](link-to-license).
-
 ---
 
 For more information, please visit our [official website](https://gens.life) or contact our support team at support@gens.life.
