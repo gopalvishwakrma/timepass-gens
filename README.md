@@ -6,9 +6,6 @@
 5. [Domain Information](#domain-information)
 6. [File Structure](#file-structure)
 7. [Docker Compose Configuration](#docker-compose-configuration)
-8. [Getting Started](#getting-started)
-9. [Contributing](#contributing)
-10. [License](#license)
 
 ## Project Overview
 
@@ -151,15 +148,6 @@ services:
     volumes:
       - ./react_frontend:/app
 ```
-
-## Getting Started
-
-To set up the Gens.Life platform locally, follow these steps:
-
-1. Clone the repository
-2. Install Docker and Docker Compose
-3. Run `docker-compose up --build`
-4. Access the application at `http://localhost:3000`
 
 ---
 
