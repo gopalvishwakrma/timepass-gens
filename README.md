@@ -134,8 +134,8 @@ services:
       - ./nginx_webserver/static:/app/static
       - ./nginx_webserver/media:/app/media
     ports:
-      - "51.195.97.76:80:80"
-      - "51.195.97.76:443:443"
+      - "${IP}:80:80"
+      - "${IP}:443:443"
     depends_on:
       - django
       - react
@@ -144,7 +144,7 @@ services:
     build:
       context: ./react_frontend
     ports:
-      - "51.195.97.76:3000:3000"
+      - "${IP}:3000:3000"
     volumes:
       - ./react_frontend:/app
 ```
