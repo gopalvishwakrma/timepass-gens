@@ -80,7 +80,7 @@ Gens.Life is hosted on OVH Worker 3, ensuring robust performance and scalability
 |  | mail.gens.life | 1 | A | 51.195.97.76 |
 |  | webmail.gens.life | 1 | A | 51.195.97.76 |
 
-*Note: For brevity, not all records are shown here. Please refer to the full documentation for complete domain information.*
+*Note: For brevity, not all records are shown here. Please contact author for that*
 
 ## File Structure
 
